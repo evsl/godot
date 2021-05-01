@@ -1,0 +1,3 @@
+[submodule "modules/spine_runtime"]
+	path = modules/spine_runtime
+	url = https://github.com/evsl/spine-runtime-for-godot
